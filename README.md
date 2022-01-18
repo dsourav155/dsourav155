@@ -1,6 +1,6 @@
 ### Hey, I'm Sourav 👋
 
----Connect [here](https://twitter.com/d_sourav156)
+<!---Connect [here](https://twitter.com/d_sourav156)
 
 -I'm currently working on DSA with Java
  - [X] Done my today's task
