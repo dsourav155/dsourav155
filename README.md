@@ -31,6 +31,9 @@
 ✔ Reach out to me on [LinkedIn](https://www.linkedin.com/in/dsourav155/)<br>
 ✔ Reach out to me on [Showwcase](https://www.showwcase.com/d-sourav155)<br>
 
+[![Gmail Badge](https://img.shields.io/badge/-work.sourav155@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.sourav155@gmail.com)](mailto:work.sourav155@gmail.com)
+
+
 ![](https://komarev.com/ghpvc/?username=dsourav155&color=blueviolet&label=Profile+Views)
 <!--
 **dsourav155/dsourav155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
