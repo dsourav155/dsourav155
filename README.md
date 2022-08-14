@@ -25,6 +25,7 @@
 
 
 ✔ Learing DSA with **Java**.<br>
+✔ Learning **Golang** <br>
 ✔ Learning some basics of HTML<br>
 ✔ Active into Fitness<br>
 ✔ Reach out to me on [Twitter](https://twitter.com/d_sourav156)<br>
