@@ -24,13 +24,14 @@
 &nbsp;***More About Me...***
 
 
-✔ Learing DSA with **Java**.<br>
+✔ Learing **Docker**.<br>
 ✔ Learning **Golang** <br>
 ✔ Learning some basics of **Linux commands and terminal**<br>
 ✔ Active into Fitness<br>
 ✔ Reach out to me on [Twitter](https://twitter.com/d_sourav156)<br>
 ✔ Reach out to me on [LinkedIn](https://www.linkedin.com/in/dsourav155/)<br>
 ✔ Reach out to me on [Showwcase](https://www.showwcase.com/d-sourav155)<br>
+✔ Reach out to me on [Hashnode](https://dsourav155.hashnode.dev)<br>
 
 [![Gmail Badge](https://img.shields.io/badge/-work.sourav155@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.sourav155@gmail.com)](mailto:work.sourav155@gmail.com)
 
