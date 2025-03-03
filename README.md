@@ -63,9 +63,4 @@ I'm <b>committed</b> to maintaining top 10% <b>DORA metrics</b> and focused on <
 
 <a href="https://github.com/dsourav155"><img alt="Sourav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dsourav155&theme=react-dark&hide_border=true&area=true" /></a>
 
-## Recent Projects
-
-- 🌐 **[QR Code Generator](https://github.com/dsourav155/qr-code-generator)** - FastAPI backend with AWS S3 integration deployed on EKS
-- 💻 **[Go Web App](https://github.com/dsourav155/go-web-app)** - Golang web application with Kubernetes deployment via ArgoCD
-
 ### Show some ❤️ by ⭐ some of the repositories!
